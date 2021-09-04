@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital@1&display=swap');
+
+
+.silver{justify-content: center;
+	background-color: #F6F7F3;
+	position: absolute;
+	cursor: pointer;
+	width: 500px;margin-left: 400px;
+
+	
+	
+}
+.ok{
+	background-color: #F6F7F3;
+}
+.button{
+	background: black;color: white; width: 400px; outline: none;border: none; margin-top: 10px;padding:8px;
+}
+.input{
+	width: 400px;margin-top: 10px;
+}
+.input1{
+	width: 198px;
+}
+
+.password1{
+	display: block; margin-top: 10px;
+}
+
+.create{
+	margin-bottom: 30px;
+}
+
+.account{
+	margin-top: 30px;
+}
+
+  .fa-smile-o{
+	color: red;
+}
+.fb{
+	 border: 1px solid;width: 400px;background-color:#4267B2;color: white;text-align: center;
+}
+.fa-facebook{
+	padding: 10px;
+}
+.google{
+	 border: 1px solid;margin-top: 10px;color: white;  width: 400px; background: linear-gradient(-120deg, #4285f4, #34a853, #fbbc05, #ea4335);
+	 	text-align:center;
+}
+ .fa-google{
+ 	padding: 10px;
+ }
+ .first_name{
+ 	width: 198px;
+ }
+ .agree{
+ 	margin-top: 12px;
+ }
